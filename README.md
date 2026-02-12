@@ -1,0 +1,1 @@
+# ApplicationProperties_Pom_PublicKey
